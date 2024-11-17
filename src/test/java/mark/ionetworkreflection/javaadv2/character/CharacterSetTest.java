@@ -1,4 +1,4 @@
-package character;
+package mark.ionetworkreflection.javaadv2.character;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
